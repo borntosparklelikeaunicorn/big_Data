@@ -21,6 +21,6 @@
 
 <img width="434" alt="Снимок экрана 2024-04-22 в 00 12 42" src="https://github.com/borntosparklelikeaunicorn/big_Data/assets/147177755/459e4c9e-5067-4937-9737-59c8fad1599a">
 
-**4. LongRides**
+**4. ExpiringState**
 
 <img width="428" alt="Снимок экрана 2024-04-22 в 00 13 06" src="https://github.com/borntosparklelikeaunicorn/big_Data/assets/147177755/58e7c048-164f-4667-8599-9ff3dc370a7f">
